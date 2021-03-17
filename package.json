@@ -1,0 +1,15 @@
+{
+  "name": "@charlietango/sort-scehma-args",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Sort arguments in GraphQL schema",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "graphql": "*"
+  },
+  "devDependencies": {
+    "graphql": "^15.5.0",
+    "prettier": "^2.2.1"
+  }
+}
