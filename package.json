@@ -1,5 +1,5 @@
 {
-  "name": "@charlietango/sort-scehma-args",
+  "name": "@charlietango/sort-schema-args",
   "private": false,
   "version": "1.0.0",
   "description": "Sort arguments in GraphQL schema",
